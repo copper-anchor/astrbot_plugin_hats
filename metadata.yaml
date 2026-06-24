@@ -1,0 +1,6 @@
+name: astrbot_plugin_hats
+desc: 今天你想戴什么帽子？
+help: 发送 戴帽子 查看今日帽子
+version: v1.0.0
+author: Futureppo
+repo: https://github.com/copper-anchor/astrbot-plugin-hats
